@@ -17,3 +17,13 @@
 8-firstdelete : delete file
 
 9-firstdirdeletion : delete directory
+
+10-back : changes rthe working dorectory to the previous one
+
+11-lists : lists all files
+
+12-file_type: print the type of a file
+
+13-symbolic_link : create a symbolic link
+
+
