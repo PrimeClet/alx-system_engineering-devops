@@ -9,3 +9,11 @@
 4-listmorefiles : display current directory contents, including hidden files
 
 5-listfilesdigitonly : displlay current directory contents
+
+6-firstdirectory: create directory
+
+7-movethatfile : move the file
+
+8-firstdelete : delete file
+
+9-firstdirdeletion : delete directory
